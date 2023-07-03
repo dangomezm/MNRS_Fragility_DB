@@ -1,4 +1,4 @@
-﻿Base de datos,Taxonomia,Material,LLRS,Nivel de Ductilidad,PiSOFT_STORY,IM,theta1,beta1,theta2,beta2,theta3,beta3,theta4,beta4,theta5,beta5
+﻿Base de datos,Taxonomia,Material,LLRS,Nivel de Ductilidad,Pisos,IM,theta1,beta1,theta2,beta2,theta3,beta3,theta4,beta4,theta5,beta5
 GEM-OpenQuake,LFINF/H:1/DNO,CR,LFINF,DNO,1,PGA [g],0.3463,0.13,0.7646,0.2763,0.9378,0.3186,1.2732,0.5302,0,0
 GEM-OpenQuake,LFM/H:1/DNO/SOFT_STORY,CR,LFM,DNO,1,Sa(T) [g] - Telastic = 0.3,0.4631,0.1508,1.0017,0.3438,1.3214,0.5255,1.9967,0.9904,0,0
 GEM-OpenQuake,LFM/H:1/DNO,CR,LFM,DNO,1,Sa(T) [g] - Telastic = 0.3,0.482,0.1651,1.0463,0.342,1.3851,0.5342,2.0936,0.9604,0,0
